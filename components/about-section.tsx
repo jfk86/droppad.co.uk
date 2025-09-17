@@ -12,13 +12,13 @@ export default function AboutSection() {
 
   const teamMembers = [
     {
-      name: 'Muhammad Chowdhury',
-      title: 'Lead Architect — Junior Architect, MSA Graduate',
-      description: 'Residential specialist delivering practical loft and extension designs across London & Home Counties. Blends creative layouts with compliance-ready technical detail, adept with planning policy and Building Regulations packages.'
+      name: 'Muhammad Chowdhury, MArch - Manchester School of Architecture',
+      title: 'Part 2 Assistant Architect',
+      description: 'Muhammad is a Commercial & Residential specialist delivering practical loft and extension designs across London & Home Counties. Blends creative layouts with compliance-ready technical detail, adept with planning policy and Building Regulations packages.'
     },
     {
-      name: 'Dr Abdus Samad',
-      title: 'Director — Materials Engineer',
+      name: 'Abdus Samad, MEng',
+      title: 'Retrofit Coordinator and Materials Engineer — Project Manager',
       description: 'PhD in Electrochemistry with materials & structural systems insight. Focuses on robust, efficient buildability and value engineering for domestic projects.'
     }
   ]
